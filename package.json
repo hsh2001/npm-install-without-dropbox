@@ -1,0 +1,33 @@
+{
+  "name": "npm-install-without-dropbox",
+  "version": "0.0.1",
+  "description": "Tool for install npm pakages without dropbox upload.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsh2001/npm-install-without-dropbox.git"
+  },
+  "keywords": [
+    "dropbox",
+    "npm",
+    "tool"
+  ],
+  "author": "hsh2001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsh2001/npm-install-without-dropbox/issues"
+  },
+  "homepage": "https://github.com/hsh2001/npm-install-without-dropbox#readme",
+  "devDependencies": {
+    "@typescript-eslint/parser": "^2.27.0",
+    "eslint": "^6.8.0",
+    "prettier": "^2.0.4"
+  },
+  "dependencies": {
+    "dropbox-ignore": "^0.1.1"
+  }
+}
