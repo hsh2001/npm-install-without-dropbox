@@ -1,3 +1,4 @@
 **.ts
 .git/**
 .gitignore
+build/test/**

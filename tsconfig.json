@@ -4,8 +4,8 @@
     "noImplicitAny": true,
     "removeComments": true,
     "preserveConstEnums": true,
-    "sourceMap": true,
     "module": "commonjs",
     "outDir": "build/"
-  }
+  },
+  "exclude": ["test/**"]
 }
