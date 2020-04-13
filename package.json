@@ -1,6 +1,6 @@
 {
   "name": "npm-install-without-dropbox",
-  "version": "0.0.1-a",
+  "version": "0.0.2",
   "description": "Tool for install npm pakages without dropbox upload.",
   "main": "build/index.js",
   "scripts": {
