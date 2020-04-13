@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import * as path from 'path';
 import { promises as fs } from 'fs';
 import * as del from 'del';
