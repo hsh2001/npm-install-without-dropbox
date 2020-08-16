@@ -38,7 +38,7 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "@types/jest": "^25.2.1",
+    "@types/jest": "^26.0.0",
     "del": "^5.1.0",
     "dropbox-ignore": "^0.1.4",
     "shelljs": "^0.8.3"
