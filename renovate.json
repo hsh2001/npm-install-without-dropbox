@@ -4,6 +4,7 @@
   ],
    "packageRules": [
     {
+      "depTypeList": ["devDependencies"],
       "automerge": true
     }
   ]
